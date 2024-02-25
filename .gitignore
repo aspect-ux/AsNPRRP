@@ -74,6 +74,6 @@ crashlytics-build.properties
 /[Aa]ssets/Plugins/
 .vscode/
 .idea/
-/Assets/ArtRes/
-/Assets/MiniPostProcessing/Temp/
-/Assets/Samples/
+/Assets/Models/
+/Assets/Resources/
+
